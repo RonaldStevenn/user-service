@@ -18,8 +18,8 @@ jobs:
           distribution: temurin
           cache: maven
 
-      - name: Grant execute permission for maven
-        run: chmod +x gradlew
+      - name: Grant execute permission for Maven
+        run: chmod +x mvnw
     
-      - name: Build y test
-        run: ./gradlew build --no-daemon
+      - name: Build and test
+        run: ./mvnw clean package
