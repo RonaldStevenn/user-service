@@ -1,0 +1,13 @@
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\exceptions\UserAlreadyExistsException.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\UserRegistrationApplication.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\dto\ErrorResponse.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\dto\UserRequest.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\dto\UserResponse.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\domain\UserRepository.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\controller\UserController.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\service\impl\UserServiceImpl.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\domain\User.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\aop\LoggingAspect.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\service\UserService.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\repository\InMemoryUserRepository.java
+C:\Users\ZOIN\Downloads\spec-kit-main\src\main\java\com\example\userregistration\exceptions\GlobalExceptionHandler.java

@@ -1,0 +1,3 @@
+com\example\userregistration\unit\repository\InMemoryUserRepositoryTest.class
+com\example\userregistration\unit\service\UserServiceImplTest.class
+com\example\userregistration\functional\UserRegistrationFunctionalTest.class

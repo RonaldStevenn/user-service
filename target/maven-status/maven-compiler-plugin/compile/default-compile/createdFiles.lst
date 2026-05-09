@@ -1,0 +1,13 @@
+com\example\userregistration\dto\UserResponse.class
+com\example\userregistration\exceptions\GlobalExceptionHandler.class
+com\example\userregistration\service\impl\UserServiceImpl.class
+com\example\userregistration\domain\User.class
+com\example\userregistration\aop\LoggingAspect.class
+com\example\userregistration\service\UserService.class
+com\example\userregistration\domain\UserRepository.class
+com\example\userregistration\exceptions\UserAlreadyExistsException.class
+com\example\userregistration\dto\UserRequest.class
+com\example\userregistration\repository\InMemoryUserRepository.class
+com\example\userregistration\dto\ErrorResponse.class
+com\example\userregistration\controller\UserController.class
+com\example\userregistration\UserRegistrationApplication.class
